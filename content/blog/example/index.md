@@ -2,8 +2,8 @@
 title: "My First Hand Wash 🧴"
 description: "Just an example post."
 summary: "Story about my first hand wash by working with surfactants."
-date: 2024-03-16T05:33:99+05:30
-lastmod: 2024-03-16T05:33:99+05:30
+date: 2024-03-15T05:00:00+05:30
+lastmod: 2024-03-15T05:00:00+05:30
 draft: false
 weight: 50
 categories: []
