@@ -1,5 +1,5 @@
 ---
-title : "Welcome to QTPY Labs 🧪 "
+title : "Welcome to QTPY Labs 🧪"
 lead: ""
 date: 2024-03-14T00:00:07+05:30
 lastmod: 2024-03-14T00:00:07+05:30
