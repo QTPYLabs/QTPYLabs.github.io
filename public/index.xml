@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to QTPY Labs  on QTPY Labs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to QTPY Labs  on QTPY Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 QTPY Labs</copyright>
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:07 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Hand Wash 🧴</title>
+      <link>http://localhost:1313/blog/my-first-hand-wash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-first-hand-wash/</guid>
+      <description>Story about my first hand wash by working with surfactants.</description>
+    </item>
+    <item>
+      <title>Introduction to Cosmetics 🧪</title>
+      <link>http://localhost:1313/docs/guides/introduction-to-cosmetics/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/docs/guides/introduction-to-cosmetics/</guid>
+      <description>Coming Soon&amp;hellip; </description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:07 +0530</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/reference/</guid>
+      <description>&#xD;Read about reference in the Diátaxis framework </description>
+    </item>
+  </channel>
+</rss>
