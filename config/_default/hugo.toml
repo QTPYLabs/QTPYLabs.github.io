@@ -1,4 +1,4 @@
-title = "QTPY Labs"
+title = "QTPY Labs."
 baseurl = "https://qtpylabs.github.io/QTPYLabs.gitlab.io/"
 canonifyURLs = true
 disableAliases = true
