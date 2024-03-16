@@ -1,5 +1,5 @@
 title = "QTPY Labs."
-baseurl = "https://qtpylabs.github.io/QTPYLabs.gitlab.io/"
+baseurl = "http://qtpylabs.com"
 canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
