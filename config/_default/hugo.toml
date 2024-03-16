@@ -1,6 +1,6 @@
 title = "QTPY Labs"
-baseurl = "/"
-canonifyURLs = false
+baseurl = "https://qtpylabs.com/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
