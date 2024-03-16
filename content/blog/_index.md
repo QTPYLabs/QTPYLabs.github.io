@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "The Formulation Chronicles 👩‍🔬"
 description: ""
 summary: ""
 date:  2024-03-15T00:00:07+05:30

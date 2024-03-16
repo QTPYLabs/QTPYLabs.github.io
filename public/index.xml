@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to QTPY Labs 🧪 on QTPY Labs.</title>
+    <title>Welcome to QTPY Labs 🧪 on QTPY Labs</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to QTPY Labs 🧪 on QTPY Labs.</description>
+    <description>Recent content in Welcome to QTPY Labs 🧪 on QTPY Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 QTPY Labs</copyright>
@@ -15,6 +15,20 @@
       <pubDate>Fri, 15 Mar 2024 05:00:00 +0530</pubDate>
       <guid>http://localhost:1313/blog/my-first-hand-wash/</guid>
       <description>Story about my first hand wash by working with surfactants.</description>
+    </item>
+    <item>
+      <title>Anhydrous body butter 🍯</title>
+      <link>http://localhost:1313/blog/anhydrous-body-butter/</link>
+      <pubDate>Sat, 13 Jan 2024 05:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/blog/anhydrous-body-butter/</guid>
+      <description>Playing with Anhydrous body butter.</description>
+    </item>
+    <item>
+      <title>Experiment with Xanthan Gum ✨ </title>
+      <link>http://localhost:1313/blog/experiment-with-xanthan-gum/</link>
+      <pubDate>Wed, 10 Jan 2024 05:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/blog/experiment-with-xanthan-gum/</guid>
+      <description>Learning Xanthan Gum Mixture. .</description>
     </item>
     <item>
       <title>Introduction to Cosmetics 🧪</title>

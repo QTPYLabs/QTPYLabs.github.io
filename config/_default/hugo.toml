@@ -1,5 +1,5 @@
-title = "QTPY Labs."
-baseurl = "http://qtpylabs.com"
+title = "QTPY Labs"
+baseurl = "https://qtpylabs.com"
 canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
