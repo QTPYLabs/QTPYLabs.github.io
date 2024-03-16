@@ -1,5 +1,5 @@
 ---
-title: "The Formulation Chronicles 👩‍🔬"
+title: "The Formulator's Notebook 👩‍🔬"
 description: ""
 summary: ""
 date:  2024-03-15T00:00:07+05:30
