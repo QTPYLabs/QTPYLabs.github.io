@@ -1,9 +1,9 @@
 ---
-title: "Experiment with Xanthan Gum"
+title: "Experiment with Xanthan Gum✨."
 description: "Learning Xanthan Gum Mixture."
 summary: "Learning Xanthan Gum Mixture."
 date: 2024-01-10T05:00:00+05:30
-lastmod: 2024-01-10T05:00:00+05:30
+lastmod: 2024-01-10T05:50:00+05:30
 draft: false
 weight: 50
 categories: []
@@ -17,7 +17,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
 
 Today, I decided to experiment with Xanthan Gum by making a gel with it. So, in the first attempt, I added all the Xanthan Gum into a mixture of glycerin and water at once. Well, it turned into a clumpy party! The gel ended up uneven, and I had to spend a good chunk of my time trying to break up those clumps and even out the texture.😮‍💨
 
