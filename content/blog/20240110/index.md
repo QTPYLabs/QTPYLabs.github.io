@@ -1,5 +1,5 @@
 ---
-title: "Experiment with Xanthan Gum ✨ "
+title: "Experiment with Xanthan Gum"
 description: "Learning Xanthan Gum Mixture."
 summary: "Learning Xanthan Gum Mixture."
 date: 2024-01-10T05:00:00+05:30
