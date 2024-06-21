@@ -30,6 +30,6 @@ This was one of the few formulations where I went in without a lot of planning. 
 
 The only prior planning I did was that I calculated the active surfactant matter (ASM) of the final formulation. Everything else was more or less a guess. I also wanted to include a small quantity of a carrier oil (to make it milder) and a fragrance oil. I wasn't sure how to go about this, so I used a solublizer. I added the pre-mixed oils and solubilizer phase as the final step. I'm not sure if it was the right choice, but so far, so good. If you have any suggestions on how to improve this process, please let me know.
 
-![Hand Wash](./img/handwash2.jpeg)
+![Hand Wash](./img/handwash2.jpg)
 
 All my ingredients were purchased from Purenso Global and Art Connect
