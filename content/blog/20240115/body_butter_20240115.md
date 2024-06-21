@@ -21,7 +21,7 @@ seo:
 
 Anhydrous body butter has been a tempting DIY project for me, and I've dived into the challenge since the day I started my home lab. Yet, my attempts have been a train of failures, and the main reason is the scorching environment I call home.
 
-![](https://media.licdn.com/dms/image/D5622AQHS574GdsV6tg/feedshare-shrink_800/0/1705416688249?e=1713398400&v=beta&t=rlsWFIzx2r-2UcazgXmK1tgoSc4o9n50L_UTnasaHjI)
+![Body Butter](./img/bodybutter1.jpeg)
 
 I have tried many cooling techniques - "freezer olympics" - where I race from my lab to the freezer after every 2 minutes of whipping and many others. Despite my best efforts, the body butters always collapse after a few minutes at room temperature - just like my dreams of a beautiful, whipped body butter.🥲
 
@@ -31,7 +31,7 @@ I also added some kaolin clay to offset the greasiness.
 
 My next move is to try hot processing again, this time with a higher butter percentage, and incorporating beeswax and thickeners for added stability.
 
-![](https://media.licdn.com/dms/image/D5622AQEplpyr9USaxw/feedshare-shrink_800/0/1705416687992?e=1713398400&v=beta&t=K1dikjVgIlTUExHc9b5MfJCUKLdxXW3GQ6UpBkr_pbY)
+![Body Butter](./img/bodybutter2.jpeg)
 
 If you've conquered the art of body butter in hot and humid climates, drop your tips in the comments below.
 
