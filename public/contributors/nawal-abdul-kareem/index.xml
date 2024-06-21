@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nawal Abdul Kareem on QTPY Labs</title>
-    <link>http://localhost:1313/contributors/nawal-abdul-kareem/</link>
+    <link>https://qtpylabs.com/contributors/nawal-abdul-kareem/</link>
     <description>Recent content in Nawal Abdul Kareem on QTPY Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 QTPY Labs</copyright>
     <lastBuildDate>Fri, 15 Mar 2024 05:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/contributors/nawal-abdul-kareem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qtpylabs.com/contributors/nawal-abdul-kareem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Hand Wash 🧴</title>
-      <link>http://localhost:1313/blog/my-first-hand-wash/</link>
+      <link>https://qtpylabs.com/blog/my-first-hand-wash/</link>
       <pubDate>Fri, 15 Mar 2024 05:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/blog/my-first-hand-wash/</guid>
+      <guid>https://qtpylabs.com/blog/my-first-hand-wash/</guid>
       <description>Story about my first hand wash by working with surfactants.</description>
     </item>
     <item>
       <title>Anhydrous body butter 🍯</title>
-      <link>http://localhost:1313/blog/anhydrous-body-butter/</link>
+      <link>https://qtpylabs.com/blog/anhydrous-body-butter/</link>
       <pubDate>Sat, 13 Jan 2024 05:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/blog/anhydrous-body-butter/</guid>
+      <guid>https://qtpylabs.com/blog/anhydrous-body-butter/</guid>
       <description>Playing with Anhydrous body butter.</description>
     </item>
     <item>
       <title>Experiment with Xanthan Gum ✨ </title>
-      <link>http://localhost:1313/blog/experiment-with-xanthan-gum/</link>
+      <link>https://qtpylabs.com/blog/experiment-with-xanthan-gum/</link>
       <pubDate>Wed, 10 Jan 2024 05:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/blog/experiment-with-xanthan-gum/</guid>
+      <guid>https://qtpylabs.com/blog/experiment-with-xanthan-gum/</guid>
       <description>Learning Xanthan Gum Mixture. .</description>
     </item>
   </channel>

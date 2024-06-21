@@ -2,21 +2,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/blog/my-first-hand-wash/</loc>
+      <loc>https://qtpylabs.com/blog/my-first-hand-wash/</loc>
       <lastmod>2024-03-15T05:00:00+05:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/blog/anhydrous-body-butter/</loc>
+      <loc>https://qtpylabs.com/blog/anhydrous-body-butter/</loc>
       <lastmod>2024-01-13T05:00:00+05:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/blog/experiment-with-xanthan-gum/</loc>
+      <loc>https://qtpylabs.com/blog/experiment-with-xanthan-gum/</loc>
       <lastmod>2024-01-10T05:00:00+05:30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to QTPY Labs 🧪 on QTPY Labs</title>
-    <link>http://localhost:1313/</link>
+    <link>https://qtpylabs.com/</link>
     <description>Recent content in Welcome to QTPY Labs 🧪 on QTPY Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 QTPY Labs</copyright>
     <lastBuildDate>Fri, 15 Mar 2024 05:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qtpylabs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Hand Wash 🧴</title>
-      <link>http://localhost:1313/blog/my-first-hand-wash/</link>
+      <link>https://qtpylabs.com/blog/my-first-hand-wash/</link>
       <pubDate>Fri, 15 Mar 2024 05:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/blog/my-first-hand-wash/</guid>
+      <guid>https://qtpylabs.com/blog/my-first-hand-wash/</guid>
       <description>Story about my first hand wash by working with surfactants.</description>
     </item>
     <item>
       <title>Anhydrous body butter 🍯</title>
-      <link>http://localhost:1313/blog/anhydrous-body-butter/</link>
+      <link>https://qtpylabs.com/blog/anhydrous-body-butter/</link>
       <pubDate>Sat, 13 Jan 2024 05:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/blog/anhydrous-body-butter/</guid>
+      <guid>https://qtpylabs.com/blog/anhydrous-body-butter/</guid>
       <description>Playing with Anhydrous body butter.</description>
     </item>
     <item>
       <title>Experiment with Xanthan Gum ✨ </title>
-      <link>http://localhost:1313/blog/experiment-with-xanthan-gum/</link>
+      <link>https://qtpylabs.com/blog/experiment-with-xanthan-gum/</link>
       <pubDate>Wed, 10 Jan 2024 05:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/blog/experiment-with-xanthan-gum/</guid>
+      <guid>https://qtpylabs.com/blog/experiment-with-xanthan-gum/</guid>
       <description>Learning Xanthan Gum Mixture. .</description>
     </item>
     <item>
       <title>Introduction to Cosmetics 🧪</title>
-      <link>http://localhost:1313/docs/guides/introduction-to-cosmetics/</link>
+      <link>https://qtpylabs.com/docs/guides/introduction-to-cosmetics/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/introduction-to-cosmetics/</guid>
+      <guid>https://qtpylabs.com/docs/guides/introduction-to-cosmetics/</guid>
       <description>Coming Soon&amp;hellip; </description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
+      <link>https://qtpylabs.com/privacy/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:07 +0530</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>https://qtpylabs.com/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/reference/</link>
+      <link>https://qtpylabs.com/docs/reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/reference/</guid>
+      <guid>https://qtpylabs.com/docs/reference/</guid>
       <description>&#xD;Read about reference in the Diátaxis framework </description>
     </item>
   </channel>

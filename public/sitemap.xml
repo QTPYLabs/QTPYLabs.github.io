@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/my-first-hand-wash/</loc>
+    <loc>https://qtpylabs.com/blog/my-first-hand-wash/</loc>
     <lastmod>2024-03-15T05:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://qtpylabs.com/blog/</loc>
     <lastmod>2024-03-15T00:00:07+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/anhydrous-body-butter/</loc>
+    <loc>https://qtpylabs.com/blog/anhydrous-body-butter/</loc>
     <lastmod>2024-01-13T05:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/experiment-with-xanthan-gum/</loc>
+    <loc>https://qtpylabs.com/blog/experiment-with-xanthan-gum/</loc>
     <lastmod>2024-01-10T05:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/guides/</loc>
+    <loc>https://qtpylabs.com/docs/guides/</loc>
     <lastmod>2023-09-07T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/guides/introduction-to-cosmetics/</loc>
+    <loc>https://qtpylabs.com/docs/guides/introduction-to-cosmetics/</loc>
     <lastmod>2023-09-07T16:04:48+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/reference/</loc>
+    <loc>https://qtpylabs.com/docs/reference/</loc>
     <lastmod>2023-09-07T16:12:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://qtpylabs.com/docs/</loc>
     <lastmod>2023-09-07T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contributors/</loc>
+    <loc>https://qtpylabs.com/contributors/</loc>
     <lastmod>2024-03-15T05:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contributors/nawal-abdul-kareem/</loc>
+    <loc>https://qtpylabs.com/contributors/nawal-abdul-kareem/</loc>
     <lastmod>2024-03-15T05:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://qtpylabs.com/privacy/</loc>
     <lastmod>2024-03-14T00:00:07+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://qtpylabs.com/</loc>
     <lastmod>2024-03-14T00:00:07+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/reference/</loc>
+    <loc>https://qtpylabs.com/docs/reference/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://qtpylabs.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://qtpylabs.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
